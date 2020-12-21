@@ -2,6 +2,7 @@
 ### There be mods here ###
 ##########################
 
+# Sell more dilithium
 wc_uniRW-sell-di {
 	+ keyboard	D
 	+ keyboard	Control
@@ -10,6 +11,7 @@ wc_uniRW-sell-di {
 	- keyboard	BackQuote
 }
 
+# Sell more metal
 wc_uniRW-sell-metal {
 	+ keyboard	M
 	+ keyboard	Control
@@ -18,6 +20,7 @@ wc_uniRW-sell-metal {
 	- keyboard	BackQuote
 }
 
+# Buy more dilithium
 wc_uniRW-buy-di {
 	+ keyboard	D
 	+ keyboard	Control
@@ -26,6 +29,7 @@ wc_uniRW-buy-di {
 	- keyboard	BackQuote
 }
 
+# Buy more metal
 wc_uniRW-buy-metal {
 	+ keyboard	M
 	+ keyboard	Control
